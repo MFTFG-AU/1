@@ -21,7 +21,7 @@
 
 ![Alt text](method_.jpg)
 
-## Results
+## More Results
 ---
 
 ![Alt text](result1.jpg)
