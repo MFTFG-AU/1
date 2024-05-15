@@ -1,6 +1,7 @@
 # Multimodal Fusion for Talking Face Generation Utilizing Speech-related Facial Action Units
 <p style="text-align: center;"><b>ZHILEI LIU, XIAOXING LIU, SEN CHEN, JIAXING LIU, LONGBIAO WANG, and CHONGKE BI</b></p>
 <p style="text-align: center;"><b>College of Intelligence and Computing, Tianjin University, Tianjin, China</b></p>
+[TCD-TIMIT](https://ieeexplore.ieee.org/abstract/document/7050271)
 
 ## Video
 ---
