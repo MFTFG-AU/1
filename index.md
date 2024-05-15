@@ -1,7 +1,6 @@
 # Multimodal Fusion for Talking Face Generation Utilizing Speech-related Facial Action Units
 <p style="text-align: center;"><b>ZHILEI LIU, XIAOXING LIU, SEN CHEN, JIAXING LIU, LONGBIAO WANG, and CHONGKE BI</b></p>
 <p style="text-align: center;"><b>College of Intelligence and Computing, Tianjin University, Tianjin, China</b></p>
-<p style="text-align: center;"><b>[Code](https://github.com/MFTFG-AU/Multimodal-Fusion-for-Talking)</b></p>
 
 ## Video
 ---
